@@ -46,7 +46,7 @@ const Contact = () => {
 		{
 			icon: <Clock className="w-5 h-5" />,
 			label: 'Time Zone',
-			value: 'EST'
+			value: 'CST'
 		}
 	];
 
@@ -171,8 +171,8 @@ const Contact = () => {
 						>
 							<h3 className="text-lg sm:text-xl font-semibold mb-4">Office Hours</h3>
 							<div className="space-y-2 text-gray-400 text-sm sm:text-base">
-								<p>Monday - Friday: 9:00 AM - 6:00 PM (EST)</p>
-								<p>Saturday: 10:00 AM - 2:00 PM (EST)</p>
+								<p>Monday - Friday: 9:00 AM - 6:00 PM (CST)</p>
+								<p>Saturday: 10:00 AM - 2:00 PM (CST)</p>
 								<p>Sunday: Closed</p>
 							</div>
 						</motion.div>

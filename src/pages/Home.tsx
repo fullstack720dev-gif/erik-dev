@@ -143,7 +143,7 @@ const Home = () => {
 						</motion.div>
 					</motion.a>
 
-					<motion.a
+					{/* <motion.a
 						href="https://linkedin.com/in/"
 						target="_blank"
 						rel="noopener noreferrer"
@@ -162,7 +162,7 @@ const Home = () => {
 							<span className="text-base sm:text-lg font-semibold">1500+</span>
 							<span className="text-xs sm:text-sm text-gray-400">LinkedIn Followers</span>
 						</motion.div>
-					</motion.a>
+					</motion.a> */}
 
 					<motion.a
 						href={`https://wa.me/${whatsappNumber}`}
